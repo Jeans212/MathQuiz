@@ -1,0 +1,31 @@
+<resources>
+    <string name="about">About</string>
+    <string name="app_name">Math Quiz</string>
+    <string name="editTextHint">Enter your answer here</string>
+    <string name="option1a">39</string>
+    <string name="option1b">43</string>
+    <string name="option1c">81</string>
+    <string name="option2a">9</string>
+    <string name="option2b">0</string>
+    <string name="option2c">5</string>
+    <string name="option3a">10/40</string>
+    <string name="option3b">4/10</string>
+    <string name="option3c">16/40</string>
+    <string name="option3d">4/25</string>
+    <string name="option6a">September</string>
+    <string name="option6b">July</string>
+    <string name="option6c">January</string>
+    <string name="option6d">May</string>
+    <string name="option6e">April</string>
+    <string name="option6f">March</string>
+    <string name="question1">Which of the following is a prime number?</string>
+    <string name="question2">Which digit is the thousands digit in number 23, 090, 562?</string>
+    <string name="question3">Which of the following fractions is/are equivalent to 2/5?</string>
+    <string name="question4">A group of student has made #46.50 by selling coffee. They charged #1.5 for a cup of coffee. How many cups of coffee did they sell?</string>
+    <string name="question5">How many days are there in a leap year?</string>
+    <string name="question6">Which of the following months has 31 days in it?</string>
+    <string name="quit">Quit</string>
+    <string name="resetMessage">Click the submit button to see your score!</string>
+    <string name="restart">Restart</string>
+    <string name="submit">Submit</string>
+</resources>
